@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranvin Wickramasinghe</h1>
-<h3 align="center">A passionate full-stack developer from LK. Showcasing expertise in full-stack web development, REST API design, and dynamic user interfaces.</h3>
+<h3 align="center">A passionate software engineer, interested in learning about AI & ML. Showcasing expertise in full-stack web development, REST API design, and dynamic user interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranvin36&label=Profile%20views&color=0e75b6&style=flat" alt="ranvin36" /> </p>
 
