@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ranvinwick.netlify.app/](https://ranvinwick.netlify.app/)
 
-- 💬 Ask me about **React, React-Native, Node**
-
 - 📫 How to reach me **ranvin.789@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
